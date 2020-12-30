@@ -9,5 +9,5 @@ phases:
       echo "Build has started...."
 artifacts:
   files:
-    - platfawm-code-deploy/sample.zip
+    - target/sample.zip
   discard-paths: yes
